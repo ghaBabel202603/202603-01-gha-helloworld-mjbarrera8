@@ -1,5 +1,7 @@
 name: HELLO WORLD
-on: push
+on:
+  push
+
 jobs:
   saludo: 
     runs-on: ubuntu-latest
